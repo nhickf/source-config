@@ -1,0 +1,62 @@
+{
+  "gogoanime": {
+    "name": "gogoanime",
+    "params": [
+      "id",
+      "ep"
+    ]
+  },
+  "zoro": {
+    "name": "zoro",
+    "params": [
+      "epId"
+    ]
+  },
+  "anivibe": {
+    "name": "anivibe",
+    "params": [
+      "id",
+      "ep"
+    ]
+  },
+  "animepahe": {
+    "name": "animepahe",
+    "params": [
+      "id",
+      "ep"
+    ]
+  },
+  "animez": {
+    "name": "animez",
+    "params": [
+      "epId",
+      "ep"
+    ]
+  },
+  "animekai": {
+    "name": "animekai",
+    "params": [
+      "epId",
+      "ep"
+    ]
+  },
+  "kickassanime": {
+    "name": "kickassanime",
+    "params": [
+      "epId",
+      "ep"
+    ]
+  },
+  "anixl": {
+    "name": "anixl",
+    "params": [
+      "epId"
+    ]
+  },
+  "megaplay": {
+    "name": "megaplay",
+    "params": [
+      "epId"
+    ]
+  }
+}
