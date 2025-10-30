@@ -23,14 +23,14 @@
     "name": "animepahe",
     "params": [
       "id",
-      "ep"
+      "epId"
     ]
   },
   "animez": {
     "name": "animez",
     "params": [
       "epId",
-      "ep"
+      "id"
     ]
   },
   "animekai": {
@@ -44,13 +44,14 @@
     "name": "kickassanime",
     "params": [
       "epId",
-      "ep"
+      "id"
     ]
   },
   "anixl": {
     "name": "anixl",
     "params": [
-      "epId"
+      "epId",
+      "id"
     ]
   },
   "megaplay": {
