@@ -59,5 +59,11 @@
     "params": [
       "epId"
     ]
+  },
+  "animedunya" {
+    "name": "animedunya",
+    "params": [
+      "epId"
+    ]
   }
 }
